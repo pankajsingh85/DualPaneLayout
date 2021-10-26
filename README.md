@@ -11,7 +11,8 @@ your layout should gracefully respond to different screen sizes and orientations
 - Android supports several configuration qualifiers that allow you to control how the system selects your alternative resources 
   based on the characteristics of the current device screen. 
 
-- ex-  1. mipmap-mdpi            (launcher icon for medium-density)
+- ex-  
+     1. mipmap-mdpi            (launcher icon for medium-density)
      2. layout-sw600dp         (layout for 7 inch tablets and bigger)
      3. layout-sw600dp-land    (layout for tablets in landscape mode)
     
